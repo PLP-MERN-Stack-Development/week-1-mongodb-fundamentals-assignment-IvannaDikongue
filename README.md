@@ -44,4 +44,22 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [MongoDB University](https://university.mongodb.com/)
+
+- ## INSTRUCTIONS
+- # PLP Bookstore MongoDB Project
+
+## Setup
+
+1. Install MongoDB or create a MongoDB Atlas free cluster.
+2. Run `insert_books.js` to insert sample book data.
+3. Use `queries.js` to run and test various MongoDB queries.
+4. View data using MongoDB Compass or mongosh.
+
+## Running Scripts
+
+- To insert books:
+
+```bash
+node insert_books.js
+
 - [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/) 
